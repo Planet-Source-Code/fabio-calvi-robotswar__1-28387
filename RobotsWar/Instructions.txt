@@ -1,0 +1,52 @@
+GAMEPLAY
+
+You are the Commander of the MechWarriors, the red robots army.
+Computer leads the MetalKnights, the blue robots army.
+Each team has six players/robots.
+
+The object of the game is to score more points than your opponent into the
+period time (this version allows you to play one ten minute period) controlling
+of as many of the five nodes as possible.
+
+You take control of a node when your forces get within range of it and no
+other forces are in range; the node changes color to reflect the team owner
+of itself. You keep control until the opposite army takes control of the node.
+The positions of the nodes are random at the beginning of a new game.  
+
+You lose the control of your robots when they engage enemies until their
+destruction or the death of the opposite robot (the control during a scramble is 
+not implemented yet, sorry).
+
+When a your robot is destroyed, a new robot places to your disposal at the
+starting game position (the upper left corner of the arena).
+
+Score 4 points every 10 seconds for 1 node, 12 points every 10 seconds for 2 nodes,
+24 points every 10 seconds for 3 nodes, 40 points every 10 seconds for 4 nodes and
+60 points every 10 seconds for 5 nodes.
+
+...................................................................................
+
+HOW TO PLAY
+
+To select a unit, place the cursor over it and click the left mouse button.
+A selected unit displays a green outline around it. 
+You can also select multiple units left-clicking and drag holding down the
+"Shift" key creating a green rectangle over to units you want to select.  
+Once the unit/s is/are selected, you can use the right mouse button to move 
+it/them, right-clicking a destination on every point of the viewport of battle 
+arena (not in small map yet, sorry). 
+You lose the control of your robots when they engage enemy robots (but they
+"remember" your previous order, if they are still alive after a fighting). 
+You can deselect a unit/s by left-clicking on an empty area in the viewport
+of the battle map. 
+
+To move yourself on the battlefield push the mouse cursor on the edges of the
+screen.
+
+You can left or right click inside the mini-map or move the mouse while
+holding the left or right button down scrolling the mini-map to center the 
+battlefield view over that point.
+
+"Esc" key allows you to quit the play in every moment.
+
+Enjoy, Fabio.
